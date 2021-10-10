@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+<polygon points = '144,93, 104,93, 124.0,53' style = 'fill:green;stroke:green;stroke-width:1' />
+<polygon points = '366,71, 326,71, 346.0,31' style = 'fill:green;stroke:green;stroke-width:1' />
+<polygon points = '717,99, 677,99, 697.0,59' style = 'fill:green;stroke:green;stroke-width:1' />
+<polygon points = '131,168, 131,208, 171,208, 171,168' style = 'fill:red;stroke:red;stroke-width:1' />
+<polygon points = '294,166, 294,206, 334,206, 334,166' style = 'fill:red;stroke:red;stroke-width:1' />
+<polygon points = '674,164, 674,204, 714,204, 714,164' style = 'fill:red;stroke:red;stroke-width:1' />
+<polygon points = '141,314, 101,314, 81.0,274, 121.0,254.0, 161.0,274' style = 'fill:pink;stroke:pink;stroke-width:1' />
+<polygon points = '290,301, 250,301, 230.0,261, 270.0,241.0, 310.0,261' style = 'fill:pink;stroke:pink;stroke-width:1' />
+<polygon points = '595,301, 555,301, 535.0,261, 575.0,241.0, 615.0,261' style = 'fill:pink;stroke:pink;stroke-width:1' />
+<polygon points = '723,299, 683,299, 663.0,259, 703.0,239.0, 743.0,259' style = 'fill:pink;stroke:pink;stroke-width:1' />
+<polygon points = '171,439, 11,439, 91.0,279' style = 'fill:green;stroke:green;stroke-width:1' />
+<polygon points = '375,485, 215,485, 295.0,325' style = 'fill:green;stroke:green;stroke-width:1' />
+<polygon points = '594,499, 434,499, 514.0,339' style = 'fill:green;stroke:green;stroke-width:1' />
+<polygon points = '463,248, 383.0,248, 423.0,168.0' style = 'fill:green;stroke:green;stroke-width:1' />
+<polygon points = '680,399, 600.0,399, 640.0,319.0' style = 'fill:green;stroke:green;stroke-width:1' />
+<polygon points = '781,477, 741.0,477, 761.0,437.0' style = 'fill:green;stroke:green;stroke-width:1' />
+<polygon points = '891,415, 871.0,415, 881.0,395.0' style = 'fill:green;stroke:green;stroke-width:1' />
+<polygon points = '873,202, 863.0,202, 868.0,192.0' style = 'fill:green;stroke:green;stroke-width:1' />
+<polygon points = '860,265, 860,285.0, 880.0,285.0, 880.0,265' style = 'fill:red;stroke:red;stroke-width:1' />
+<polygon points = '816,147, 816,157.0, 826.0,157.0, 826.0,147' style = 'fill:red;stroke:red;stroke-width:1' />
+<polygon points = '801,56, 801,61.0, 806.0,61.0, 806.0,56' style = 'fill:red;stroke:red;stroke-width:1' />
+<polygon points = '839,101, 839,111.0, 849.0,111.0, 849.0,101' style = 'fill:red;stroke:red;stroke-width:1' />
+<polygon points = '906,196, 906,216.0, 926.0,216.0, 926.0,196' style = 'fill:red;stroke:red;stroke-width:1' />
+<polygon points = '945,352, 945,392.0, 985.0,392.0, 985.0,352' style = 'fill:red;stroke:red;stroke-width:1' />
+<polygon points = '927,531, 927,611.0, 1007.0,611.0, 1007.0,531' style = 'fill:red;stroke:red;stroke-width:1' />
+<polygon points = '736,566, 656.0,566, 616.0,486.0, 696.0,446.0, 776.0,486.0' style = 'fill:pink;stroke:pink;stroke-width:1' />
+<polygon points = '602,624, 562.0,624, 542.0,584.0, 582.0,564.0, 622.0,584.0' style = 'fill:pink;stroke:pink;stroke-width:1' />
+<polygon points = '353,614, 333.0,614, 323.0,594.0, 343.0,584.0, 363.0,594.0' style = 'fill:pink;stroke:pink;stroke-width:1' />
+<polygon points = '167,598, 127.0,598, 107.0,558.0, 147.0,538.0, 187.0,558.0' style = 'fill:pink;stroke:pink;stroke-width:1' />
+<polygon points = '65,500, 45.0,500, 35.0,480.0, 55.0,470.0, 75.0,480.0' style = 'fill:pink;stroke:pink;stroke-width:1' /></svg>
